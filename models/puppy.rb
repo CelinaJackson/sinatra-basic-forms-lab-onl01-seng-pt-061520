@@ -1,1 +1,2 @@
-class puppies :name, :breed, :age
+class Puppies 
+  attr_accessor :name, :breed, :age
